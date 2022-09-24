@@ -1,0 +1,13 @@
+{
+    "Log_all_register_data": false,
+    "Display_Stats": true,
+    "get_usernames_from_file": true,
+    "add_username_watermark": "",
+    "remove_banned_proxies": false,
+    "use_threading_lock": true,
+    "display_errors": false,
+    "verify_email": false,
+    "setup_account_oncreation": true,
+    "set_account_bio": true,
+    "use_refferal_code": "Vmy2GNwA"
+}

@@ -1,2 +1,2 @@
 # guildedbot
-IF YOU LEAK UR WEIRD AF
+Made By: Pr0t0n & ADylan
